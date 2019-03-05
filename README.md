@@ -10,7 +10,6 @@ This script takes a list of compounds, searches the site in the background, gath
 PhantomJS is a headless web browser scriptable with JavaScript, but can be used by Python via selenium.
 
 To install:
-
-  Install NodeJS (https://nodejs.org/en/)
+  Install NodeJS (https://nodejs.org/en/)  /n
   Using Node's package manager install phantomjs: npm -g install phantomjs-prebuilt
   Install selenium
