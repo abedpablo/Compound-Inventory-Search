@@ -11,5 +11,6 @@ PhantomJS is a headless web browser scriptable with JavaScript, but can be used 
 
 To install:
 - Install [NodeJS](https://nodejs.org/en/) 
-- Using Node's package manager install phantomjs: npm -g install phantomjs-prebuilt
+- Using Node's package manager install run:
+  - npm -g install phantomjs-prebuilt
 - Install selenium
