@@ -3,8 +3,6 @@ from bs4 import BeautifulSoup as bs
 from datetime import datetime
 import pandas as pd
 import numpy as np
-import re
-
 
 searches = ['selegiline', 'methamphetamine', 'THC', 'codeine', 'buprenorphine', 'hydroxychloroquine', 'norselegiline',
             'cocaine', 'morphine', 'hyromorphone', 'noroxycodone', 'oxymorphone', 'nortriptyline']
